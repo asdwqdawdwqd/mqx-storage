@@ -1,0 +1,26 @@
+# 编译产物
+*.o
+*.a
+*.so
+*.dylib
+
+# 可执行文件
+test_storage
+test_full
+test_printf
+
+# 测试数据库文件
+*.db.dat
+*.db.idx
+
+# 编辑器文件
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# 系统文件
+.DS_Store
+Thumbs.db
